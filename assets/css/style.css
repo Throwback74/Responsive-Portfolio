@@ -234,7 +234,7 @@ main {
 .work img {
   /* Box-model */
   width: 100%;
-
+  height: 182px;
   /* Visual */
   border: 0 none;
 
